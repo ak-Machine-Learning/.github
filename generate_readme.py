@@ -110,7 +110,7 @@ Each repository is an independent project with its own dataset, pipeline, and go
 |------------|-------------|----------|--------|
 {table}
 
-> 🤖 _This table is **auto-generated** by a GitHub Actions workflow. Repos and descriptions are pulled live from the GitHub API — no manual updates needed._
+
 
 ---
 
