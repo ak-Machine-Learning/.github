@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=220&section=header&text=ak-Machine-Learning&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=A%20collection%20of%20ML%20%26%20AI%20projects%20built%20from%20scratch&descAlignY=56&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20&amp;height=220&amp;section=header&amp;text=ak-Machine-Learning&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=A%20collection%20of%20ML%20%26%20AI%20projects%20built%20from%20scratch&amp;descAlignY=56&amp;descAlign=50" width="100%"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&amp;logo=openai&amp;logoColor=white"/>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-ML%20%7C%20NLP%20%7C%20AI-blue?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Auto--updated-2026-05-08%2006%3A57%20UTC-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Auto--updated-2026-05-08%2007%3A01%20UTC-orange?style=flat-square"/>
 </p>
 
 </div>
@@ -39,7 +39,7 @@ Each repository is an independent project with its own dataset, pipeline, and go
 | [Chatbot](https://github.com/ak-Machine-Learning/Chatbot) | A simple, lightweight conversational agent designed for quick deployment and easy integration. | 🐍 Python | ✅ Active |
 | [Doodle](https://github.com/ak-Machine-Learning/Doodle) | Doodle project | 📓 Jupyter Notebook | ✅ Active |
 
-> 🤖 _This table is **auto-generated** by a GitHub Actions workflow. Repos and descriptions are pulled live from the GitHub API — no manual updates needed._
+
 
 ---
 
@@ -86,7 +86,7 @@ ML Engineering
 
 **Aashutosh Kuikel**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ak--Machine--Learning-181717?style=for-the-badge&logo=github)](https://github.com/ak-Machine-Learning)
+[![GitHub](https://img.shields.io/badge/GitHub-ak--Machine--Learning-181717?style=for-the-badge&amp;logo=github)](https://github.com/ak-Machine-Learning)
 [![Location](https://img.shields.io/badge/📍-Kathmandu%2C%20Nepal-red?style=for-the-badge)]()
 
 </div>
@@ -95,8 +95,8 @@ ML Engineering
 
 <div align="center">
 
-_Last auto-updated: **2026-05-08 06:57 UTC**_ · _More projects incoming — watch this space._ 👀
+_Last auto-updated: **2026-05-08 07:01 UTC**_ · _More projects incoming — watch this space._ 👀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
