@@ -15,7 +15,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-ML%20%7C%20NLP%20%7C%20AI-blue?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Auto--updated-2026-06-01%2003%3A38%20UTC-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Auto--updated-2026-06-02%2003%3A35%20UTC-orange?style=flat-square"/>
 </p>
 
 </div>
@@ -34,9 +34,9 @@ Each repository is an independent project with its own dataset, pipeline, and go
 
 | Repository | Description | Language | Status |
 |------------|-------------|----------|--------|
+| [Sentiment-Analysis-Model-Comparison](https://github.com/ak-Machine-Learning/Sentiment-Analysis-Model-Comparison) | _No description provided._ | 📓 Jupyter Notebook | ✅ Active |
 | [Pneumonia-COVID-Detection-CNN](https://github.com/ak-Machine-Learning/Pneumonia-COVID-Detection-CNN) | A Deep Learning Web Application for Automated Detection of COVID-19 and Pneumonia from Chest X-Rays. | 📓 Jupyter Notebook | 🔨 In Progress |
 | [REVIEW_RATINGS_CLASSIFIER](https://github.com/ak-Machine-Learning/REVIEW_RATINGS_CLASSIFIER) | _No description provided._ | 📓 Jupyter Notebook | 🔨 In Progress |
-| [Sentiment-Analysis-Model-Comparison](https://github.com/ak-Machine-Learning/Sentiment-Analysis-Model-Comparison) | _No description provided._ | 📓 Jupyter Notebook | 🔨 In Progress |
 | [Chatbot](https://github.com/ak-Machine-Learning/Chatbot) | A simple, lightweight conversational agent designed for quick deployment and easy integration. | 🐍 Python | 🔨 In Progress |
 | [Doodle](https://github.com/ak-Machine-Learning/Doodle) | Doodle project | 📓 Jupyter Notebook | 🔨 In Progress |
 
@@ -96,7 +96,7 @@ ML Engineering
 
 <div align="center">
 
-_Last auto-updated: **2026-06-01 03:38 UTC**_ · _More projects incoming — watch this space._ 👀
+_Last auto-updated: **2026-06-02 03:35 UTC**_ · _More projects incoming — watch this space._ 👀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20&amp;height=100&amp;section=footer" width="100%"/>
 
